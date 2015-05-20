@@ -8,9 +8,9 @@ public class Dates_csv {
 	{
 		//Create calendars for start and end dates
 		Calendar startCal = Calendar.getInstance();
-		startCal.set(2010, 01, 20); 
+		startCal.set(2000, 00, 01); //date: 2000-01-01
 		Calendar endCal = Calendar.getInstance();
-		endCal.set(2010, 05, 26);
+		endCal.set(2004, 11, 31); // date: 2004-12-31
 		
 		int quarter;
 		
