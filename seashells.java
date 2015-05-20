@@ -1,4 +1,4 @@
-public class seashells {
+public class Seashells {
 	public static void main(String[] args) {
 		String sen = "she sells seashells by the seashore"; // initial sentence
 		String delim = "[ ]+"; // for find spaces
